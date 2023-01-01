@@ -1,0 +1,2 @@
+# StrongerWeapons
+TShock plugin--StrongerWeapons
