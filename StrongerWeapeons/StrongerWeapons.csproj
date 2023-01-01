@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <AssemblyName>StrongerWeapons-144</AssemblyName>
+    <AssemblyName>StrongerWeapons</AssemblyName>
     <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
     <TargetFramework>net6</TargetFramework>
   </PropertyGroup>
